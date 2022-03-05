@@ -75,7 +75,7 @@ def quadratic_multiply(x, y):
     pass
 
 
-print(quadratic_multiply(BinaryNumber(3), BinaryNumber(4)).decimal_val)
+#print(quadratic_multiply(BinaryNumber(3), BinaryNumber(4)).decimal_val)
 
 
 ## Feel free to add your own tests here.
